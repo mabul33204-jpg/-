@@ -1,0 +1,6 @@
+{
+  "name": "국민취업지원제도 취업지원 전략 엔진",
+  "description": "국민취업지원제도(NESP) 상담사의 현장 실무 분석을 돕는 참여자 진단, 전략 수립 및 상담일지 자동 생성 인공지능 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
